@@ -9,11 +9,5 @@ touch ~/.vimrc
 
 echo "$(cat vimrc_setup)" >> ~/.vimrc
 
-
 # call here :PluginInstall inside vim
-
-### install YouCompleteMe
-#sudo apt-get install build-essential cmake python3-dev
-#cd ~/.vim/bundle/YouCompleteMe 
-#python3 install.py
 
